@@ -1,14 +1,14 @@
 {
   "name": "juicy-html",
   "description": "A custom element that lets you load HTML partials into your Web page. Declarative way for client-side includes.",
-  "version": "4.0.0",
+  "version": "4.1.0",
   "homepage": "https://github.com/Juicy/juicy-html",
   "authors": [
     "Joachim Wester <joachimwester@me.com>",
     "Marcin Warpechowski <marcin@nextgen.pl>",
     "Tomek Wytrebowicz <tomalecpub@gmail.com>"
   ],
-  "main": "juicy-html.html",
+  "main": "juicy-html.js",
   "license": "https://github.com/Juicy/juicy-html/blob/master/LICENSE",
   "keywords": [
     "include",
