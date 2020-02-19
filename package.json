@@ -3,24 +3,28 @@
   "version": "4.1.0",
   "description": "A custom element that lets you load HTML partials into your Web page. Declarative way for client-side includes.",
   "homepage": "https://github.com/Juicy/juicy-html",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "repository": {
     "type": "git",
-    "url": "git://github.com/Juicy/juicy-html.git"
+    "url": "git://github.com/rpapeters/juicy-html.git"
   },
   "bugs": {
-    "url": "https://github.com/Juicy/juicy-html/issues"
+    "url": "https://github.com/rpapeters/juicy-html/issues"
   },
+	"publishConfig": {
+		"access": "public"
+	},
   "author": {
     "name": "Joachim Wester",
     "email": "joachimwester@me.com",
     "url": "http://www.starcounter.com/"
   },
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "http://www.opensource.org/licenses/MIT"
-    }
-  ],
+  "license": "MIT",
   "keywords": [
     "include",
     "partials",
