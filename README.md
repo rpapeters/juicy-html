@@ -78,7 +78,7 @@ Please note, that loaded `<script>` and `<style>` will be executed every time HT
 2. Import Custom Element:
 
     ```html
-    <link rel="import" href="bower_components/juicy-html/juicy-html.html">
+    <link rel="import" href="bower_components/juicy-html/juicy-html.js">
     ```
 
 3. Start using it!
